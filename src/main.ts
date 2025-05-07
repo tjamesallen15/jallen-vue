@@ -56,6 +56,7 @@ import {
   FaJenkins,
   SiRailway,
   SiVercel,
+  SiVuedotjs,
 } from 'oh-vue-icons/icons'
 
 addIcons(
@@ -85,6 +86,7 @@ addIcons(
   FaJenkins,
   SiRailway,
   SiVercel,
+  SiVuedotjs,
 )
 
 /* add icons to the library */

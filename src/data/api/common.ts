@@ -193,6 +193,10 @@ export function getSkillIcon(name: string) {
       name: 'Vercel',
       icon: 'si-vercel',
     },
+    {
+      name: 'Vue.js',
+      icon: 'si-vuedotjs',
+    },
   ]
 
   const filteredSkillIcon: SkillIcon = skills.filter((item: SkillIcon) => item.name === name)[0]
